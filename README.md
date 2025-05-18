@@ -86,4 +86,4 @@ For educational and portfolio purposes only.
 ---
 
 👩‍💻 Created by **Deepthi**
-Feel free to explore, fork, or connect on [LinkedIn](https:[//www.linkedin.com/in/deepthi-p-reddy-6b147655/])
+Feel free to explore, fork, or connect on [LinkedIn](https:[[//www.linkedin.com/in/deepthi-p-reddy-6b147655/](https://www.linkedin.com/in/deepthi-p-reddy-6b147655/)])
